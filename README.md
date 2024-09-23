@@ -55,6 +55,10 @@ This repository contains an implementation of an **Image Classification Model** 
    pip install -r requirements.txt
    ```
 
+3. **Downloading the Data Set**:
+   https://drive.google.com/file/d/1MSJIdDdFh-3uJUZyAXfDaalhxc94wPMA/view?usp=sharing
+   ```
+
 ## Data
 To train the model, you need a dataset of labeled images. You can either:
 - Use your own dataset, organized into subfolders for each class.
