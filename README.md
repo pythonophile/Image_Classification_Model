@@ -94,8 +94,6 @@ This script outputs:
 - Accuracy
 - Precision, recall, F1-score
 
----
-
 ## Results
 Once trained, the model achieves the following metrics (replace with your results):
 
