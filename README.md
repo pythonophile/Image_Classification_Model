@@ -20,9 +20,6 @@ This repository contains an implementation of an **Image Classification Model** 
 5. [Training the Model](#training-the-model)
 6. [Evaluation](#evaluation)
 7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-
 ---
 
 ## Project Structure
